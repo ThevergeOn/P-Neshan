@@ -2,5 +2,5 @@
 Neshan firs page clone
 
 <div align="center">
-  <img  src="./preview.png"/>
+  <img  src="./neshan.png"/>
 </div>
